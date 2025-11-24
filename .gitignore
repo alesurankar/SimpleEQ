@@ -1,2 +1,2 @@
-*SimpleEQ/Builds/VisualStudio2022/x64
-*SimpleEQ/Builds/VisualStudio2022/.vs
+*SimpleEQ/Builds
+/SimpleEQ/Builds/VisualStudio2022/SimpleEQ_StandalonePlugin.vcxproj.user
