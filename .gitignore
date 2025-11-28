@@ -1,2 +1,9 @@
 *SimpleEQ/Builds
 /SimpleEQ/Builds/VisualStudio2022/SimpleEQ_StandalonePlugin.vcxproj.user
+/SimpleEQ/JuceLibraryCode/JuceHeader.h
+/SimpleEQ/JuceLibraryCode
+/SimpleEQ/Builds/VisualStudio2022/SimpleEQ_VST3ManifestHelper.vcxproj
+/SimpleEQ/Builds/VisualStudio2022/SimpleEQ_VST3.vcxproj
+/SimpleEQ/Builds/VisualStudio2022/SimpleEQ_StandalonePlugin.vcxproj
+/SimpleEQ/Builds/VisualStudio2022/SimpleEQ_SharedCode.vcxproj
+/SimpleEQ/Builds/VisualStudio2022/SimpleEQ_SharedCode.vcxproj.filters
